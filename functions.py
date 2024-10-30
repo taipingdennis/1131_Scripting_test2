@@ -1,5 +1,5 @@
 # 題目：簡易人事資料管理系統實作
-# Functions
+# functions
 
 # 1. 新增資料(已完善)
 def create_data(database: list):

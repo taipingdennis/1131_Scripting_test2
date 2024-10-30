@@ -1,5 +1,5 @@
 # 題目：簡易人事資料管理系統實作
-# Main execution
+# main execution
 
 def main(database: list):
     while True:
